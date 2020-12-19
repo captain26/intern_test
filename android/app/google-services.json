@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263066783345",
+    "project_id": "intern-test-c9036",
+    "storage_bucket": "intern-test-c9036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263066783345:android:4796fa1c505ec05c3a15d0",
+        "android_client_info": {
+          "package_name": "com.bansals.intern_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263066783345-pnuukujp1i4m4ncjkdpv3g5p40vd53nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCcg8t3azCqd5C1v4LF49T5VqZxsn8Iik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263066783345-pnuukujp1i4m4ncjkdpv3g5p40vd53nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
